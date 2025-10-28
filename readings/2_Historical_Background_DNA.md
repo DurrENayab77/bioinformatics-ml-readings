@@ -19,7 +19,7 @@
 
 
 ##  Level 2: The Clue Phase (1950): 
-"Learn how chemistry revealed DNA’s secret pattern."
+> "Learn how chemistry revealed DNA’s secret pattern."
 
 ### 3. Erwin Chargaff (1950)
 -  Found that in any DNA sample:  
@@ -30,7 +30,7 @@
 -  He cracked the compositional code.
 
 ##  Level 3: The Visualization Era (Early 1950s)
-**Goal:** Understand how DNA’s structure was visualized.
+> "Understand how DNA’s structure was visualized."
 
 ### 4. Rosalind Franklin & Maurice Wilkins: The X-ray Visionaries
 -  Used **X-ray crystallography** to examine DNA fibers.  
@@ -38,7 +38,7 @@
 -  They made the invisible visible.
 
 ##  Level 4: The Blueprint (1953): Decoding the Double Helix
-"See how the puzzle finally came together."
+>"See how the puzzle finally came together."
 
 ### 5. James Watson & Francis Crick: The Model Builders
 -  Combined Franklin’s data + Chargaff’s ratios to propose the **double helix**.  
@@ -46,12 +46,12 @@
   - DNA stores genetic information in its **base sequence**.  
   - DNA replicates because **each strand serves as a template**.  
 -  Won the **1962 Nobel Prize** (with Wilkins).  
--  They revealed the *how* and *why* of heredity.
+-  They revealed the how and why of heredity.
 
 
 
 ##  Level 5: DNA Becomes the Blueprint of Life
-"Recognize the impact of DNA discovery."
+>"Recognize the impact of DNA discovery."
 
 ### 6. Aftermath
 -  DNA research exploded, leading to the **Human Genome Project**, **Gene Editing**, and **Synthetic Biology**.  
