@@ -61,6 +61,9 @@ This complementary pairing maintains a **uniform diameter** throughout the DNA d
 Chargaff’s discovery revealed that **DNA maintains a precise balance between purines and pyrimidines**, forming the foundation for **Watson and Crick’s double helix model**.  
 This balance ensures DNA’s **structural stability** and **replication accuracy**. 
 
+Chargaff’s balance between bases tells us how mutations disrupt that balance.
+When mutations break pairing rules (such as A pairing incorrectly with C), genetic instability occurs, leading to diseases ranging from cancer to viral mutations.
+
 **Author:** *Durr E Nayab*  
 *MPhil Computer Scientist | Drug Discovery Researcher | ML & Bioinformatics Enthusiast*  
 
