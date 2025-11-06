@@ -28,7 +28,13 @@ That’s why DNA serves as the long-term **genetic storage molecule**, while RNA
 | **RNA**  | Adenine (A), Uracil (U), Guanine (G), Cytosine (C) | Uracil (U) replaces Thymine |  Less Stable |
 
 
-  ![basesDNA_RNA](images/bases.png)
+  <p align="center">
+  <img src="images/bases.png" alt="DNA vs RNA Bases" width="500"/>
+  <br>
+  <em>Figure 1: Comparison of nitrogenous bases in DNA and RNA.  
+ (Source: <a href="https://www.technologynetworks.com/genomics/articles/what-are-the-key-differences-between-dna-and-rna-296719" target="_blank">Technology Networks</a>)</em></em>
+</p>
+
 
 
 
