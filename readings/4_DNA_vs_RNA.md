@@ -35,7 +35,7 @@ That’s why DNA serves as the long-term **genetic storage molecule**, while RNA
  (Source: <a href="https://www.technologynetworks.com/genomics/articles/what-are-the-key-differences-between-dna-and-rna-296719" target="_blank">Technology Networks</a>)</em></em>
 </p>
 
-## 🧬 Structural Distinction
+## Structural Distinction
 
 Structurally, **DNA** and **RNA** differ in how their strands are arranged and function.  
 **DNA** typically exists as a **double-stranded molecule** forming the famous **double helix**, though some **viral DNA** can be single-stranded.  
@@ -48,14 +48,14 @@ This structural difference is linked to their **distinct biological roles**:
 
 ---
 
-### 🧠 Comparison of Structural Properties
+###  Comparison of Structural Properties
 
 | Feature | **DNA** | **RNA** |
 |----------|----------|----------|
 | **Structure Type** | Double-stranded (Double Helix) | Single-stranded (can fold into 3D shapes) |
 | **Stability** | Highly stable | Less stable, easily degraded |
-| **Complementary Base Pairing** | Yes – provides error checking and backup | Limited, only in folded regions |
-| **Main Function** | Long-term genetic storage | Multiple roles – messenger, ribosomal, transfer, regulatory |
+| **Complementary Base Pairing** | Yes, provides error checking and backup | Limited, only in folded regions |
+| **Main Function** | Long-term genetic storage | Multiple roles: messenger, ribosomal, transfer, regulatory |
 | **Example of Exception** | Some viral DNA is single-stranded | Some viral RNA can be double-stranded |
 
 ---
@@ -67,7 +67,7 @@ Within the cell, **DNA** and **RNA** occupy different locations and serve distin
 **RNA**, on the other hand, is **synthesized in the nucleus** but then travels to the **cytoplasm**, where most of its functions occur.
 
 Functionally, their roles are equally distinct:  
-- **DNA** acts as the **permanent repository** of genetic information — stable and protected within the nucleus.  
+- **DNA** acts as the **permanent repository** of genetic information, stable and protected within the nucleus.  
 - **RNA** plays **multiple active roles**, including carrying genetic messages, building proteins, regulating genes, and even catalyzing biochemical reactions.
 
 ---
