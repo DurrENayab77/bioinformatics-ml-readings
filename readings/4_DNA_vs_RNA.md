@@ -60,7 +60,7 @@ This structural difference is linked to their **distinct biological roles**:
 
 ---
 
-## 🧬 Functional and Locational Distinction
+##  Functional and Locational Distinction
 
 Within the cell, **DNA** and **RNA** occupy different locations and serve distinct purposes.  
 **DNA** is mainly found in the **nucleus** of eukaryotic cells, with small amounts also present in **mitochondria** and **chloroplasts**.  
@@ -72,7 +72,7 @@ Functionally, their roles are equally distinct:
 
 ---
 
-### 🧠 Comparison of Location and Function
+###  Comparison of Location and Function
 
 | Feature | **DNA** | **RNA** |
 |----------|----------|----------|
