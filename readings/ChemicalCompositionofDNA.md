@@ -13,6 +13,13 @@ The sugar molecule, **deoxyribose**, contains **five carbon atoms**, numbered **
 The prefix **“deoxy”** signifies the **absence of one oxygen atom** at the **2′ carbon**, which makes it chemically distinct from **ribose** in RNA.  
 This small structural difference is crucial; it gives DNA greater **stability** and makes it less reactive than RNA.  
 
+  <p align="center">
+  <img src="images/composition.png" alt="CompositionofDNA" width="500"/>
+  <br>
+  <em>Figure 1: Composition of DNA.  
+ (Source: <a href="https://encyclopedia2.thefreedictionary.com/_/mdict.aspx?h=1&word=Nucleotides" target="_blank">Encyclopedia</a>)</em></em>
+</p>
+
 ---
 
 ###  Sugar Comparison: DNA vs RNA  
