@@ -36,15 +36,78 @@ This **negative charge** is critically important because it:
 - Creates the **negatively charged backbone** that gives DNA many of its structural and chemical properties  
 
 ---
+# Nitrogenous Bases
 
-###  Nitrogenous Base  
+The **nitrogenous bases** are perhaps the most important part of DNA because they carry the genetic information. There are four different bases in DNA, and they fall into two structural categories: **purines** and **pyrimidines**.
 
-The **third component** of a nucleotide is the **nitrogenous base**, which is **attached to the 1′ carbon** of the sugar.  
-This base is the **information-carrying part** of the nucleotide, the **sequence of bases encodes genetic information**.  
+---
 
-There are four types of nitrogenous bases in DNA:  
-- **Adenine (A)**  
-- **Thymine (T)**  
-- **Cytosine (C)**  
+##  Purines
+
+Purines have a **double-ring structure** and are **larger molecules** compared to pyrimidines.  
+The two purines found in DNA are:
+
+- **Adenine (A)**
 - **Guanine (G)**
 
+**Base Pairing:**
+- Adenine (**A**) pairs specifically with **Thymine (T)**
+- Guanine (**G**) pairs specifically with **Cytosine (C)**
+
+---
+
+##  Pyrimidines
+
+Pyrimidines have a **single-ring structure** and are **smaller molecules** that complement purines in size.  
+The two pyrimidines found in DNA are:
+
+- **Cytosine (C)**
+- **Thymine (T)**
+
+**Base Pairing:**
+- Cytosine (**C**) pairs with **Guanine (G)**
+- Thymine (**T**) pairs with **Adenine (A)**
+
+---
+
+##  Importance of Pairing
+
+This pairing follows a fundamental rule:  
+> **A purine always pairs with a pyrimidine.**
+
+This ensures that the DNA double helix maintains a **constant width** throughout its length.  
+
+- If **two purines** paired together → the helix would **bulge outward**.  
+- If **two pyrimidines** paired together → the helix would **pinch inward**.  
+
+The purine–pyrimidine pairing maintains the **elegant, uniform structure** of the DNA double helix.
+
+---
+
+
+
+| Category     | Structure Type | Bases in DNA       | Pairs With | Size        |
+|---------------|----------------|--------------------|-------------|--------------|
+| **Purines**   | Double-ring     | Adenine (A)        | Thymine (T) | Larger       |
+|               |                 | Guanine (G)        | Cytosine (C)| Larger       |
+| **Pyrimidines** | Single-ring   | Cytosine (C)       | Guanine (G) | Smaller      |
+|               |                 | Thymine (T)        | Adenine (A) | Smaller      |
+
+
+# Sugar-Phosphate Backbone
+
+The **sugar-phosphate backbone** forms the **structural framework** of DNA and runs along the **outside of the double helix**. This backbone is created when the **phosphate group** of one nucleotide forms a **covalent bond** with the **3′ carbon** of the adjacent nucleotide’s sugar.  
+
+This strong **phosphodiester bond** provides **structural integrity** to the DNA molecule.  
+The repeating pattern of **sugar → phosphate → sugar → phosphate** continues along the entire DNA strand, forming a **long polymer chain**.
+
+---
+
+##  Directionality of the Backbone
+
+The DNA backbone has **directionality**, meaning it has distinct ends:
+
+- **5′ (Five-prime) end:** Contains a **free phosphate group** attached to the 5′ carbon of the sugar.  
+- **3′ (Three-prime) end:** Contains a **free hydroxyl (-OH) group** on the 3′ carbon of the sugar.
+
+ This directionality is **critical for DNA replication and transcription**, as these processes
